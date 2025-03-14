@@ -1,4 +1,4 @@
-![PrismLabs Logo Banner](banner.png)
+![PrismLabs Logo Banner](banner.jpg)
 
 Hey, we're Prism. We make software, usually because someone chose not to make it or they made it badly (looking at you, OpenAI. Maybe leave making chat clients to people like (Theo)[https://t3.gg].)
 
