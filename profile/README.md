@@ -6,7 +6,7 @@ Hey, we're Prism. We make software, usually for two reasons:
 
 We hold ourselves to a standard of quality and power. If we don't and our software sucks, go spam us until we fix it. Or, since we make FOSS, help us fix it!
 
-Join us over at https://discord.gg/3Cp62ruc
+Join us over at [our Discord!](https://discord.gg/nMmNrR9EhA)
 
 ## Projects
 ### Meridian
