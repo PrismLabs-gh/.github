@@ -7,3 +7,6 @@ We hold ourselves to a standard of quality and power. If we don't and our softwa
 ## Projects
 ### Meridian
 An AI client built for two things: Design & Features.
+## Donations
+Think we made something cool? Want to make sure we can self host things? Wanna literally just make us feel good? Go donate!
+We have a buymeacoffee account: https://buymeacoffee.com/prismlabs
